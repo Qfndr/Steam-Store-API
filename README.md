@@ -12,7 +12,7 @@ Steam Store API is a simple REST API wich replaces the official Steam Store API 
 ### Usage
 To use the API you simply have to enter 2 parameters.    
 
-yourdomain.tld/your/path/storeApi.php/<B>param1</B>/<B>param2</B>
+[GET] yourdomain.tld/your/path/storeApi.php/<B>param1</B>/<B>param2</B>
 
 <B>param1</B>: Steam Language Code (defines language of response) (Full list in the <B>Quick Links</B> section).
 
